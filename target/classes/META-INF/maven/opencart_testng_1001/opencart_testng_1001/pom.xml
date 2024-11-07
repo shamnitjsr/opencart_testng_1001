@@ -8,7 +8,7 @@
 
 	<packaging>jar</packaging>
 
-	<name>opencart_testng_1000</name>
+	<name>opencart_testng_1001</name>
 	<url>http://maven.apache.org</url>
 
 
@@ -31,7 +31,7 @@
 					<version>3.2.2</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>crossbrowsertesting.xml</suiteXmlFile>
+							<suiteXmlFile>testng.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
@@ -51,21 +51,6 @@
 			<version>4.26.0</version>
 		</dependency>
 
-
-		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
-		<dependency>
-			<groupId>io.cucumber</groupId>
-			<artifactId>cucumber-junit</artifactId>
-			<version>7.17.0</version>
-			<scope>test</scope>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java  -->
-		<dependency>
-			<groupId>io.cucumber</groupId>
-			<artifactId>cucumber-java</artifactId>
-			<version>7.17.0</version>
-		</dependency>
 
 		<!--
 		https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
@@ -139,11 +124,7 @@
 			<version>1.14.0</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.nit</groupId>
-			<artifactId>SeleniumAutomationConcept</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+
 	</dependencies>
 
 </project>
