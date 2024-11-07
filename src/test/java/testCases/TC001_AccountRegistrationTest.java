@@ -74,7 +74,7 @@ public class TC001_AccountRegistrationTest {
 	public static String randomealphanumeric() {
 		String generateString = RandomStringUtils.randomAlphabetic(5);
 		String generatedNumber = RandomStringUtils.randomNumeric(5);
-		return (generateString + generatedNumber);
+		return (generateString +"@"+ generatedNumber);
 	}
 
 }
