@@ -31,7 +31,7 @@
 					<version>3.2.2</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>testng.xml</suiteXmlFile>
+							<suiteXmlFile>paralleltesting.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
@@ -114,14 +114,6 @@
 			<artifactId>testng</artifactId>
 			<version>7.10.2</version>
 			<scope>test</scope>
-		</dependency>
-
-		<!--
-		https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber7-adapter/1.14.0 -->
-		<dependency>
-			<groupId>tech.grasshopper</groupId>
-			<artifactId>extentreports-cucumber7-adapter</artifactId>
-			<version>1.14.0</version>
 		</dependency>
 
 

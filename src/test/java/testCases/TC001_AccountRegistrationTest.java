@@ -1,80 +1,58 @@
 package testCases;
 
-import java.time.Duration;
-
-import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import testBase.BaseClass;
 
-public class TC001_AccountRegistrationTest {
+public class TC001_AccountRegistrationTest extends BaseClass {
 
-	public WebDriver driver;
+	@Test
+	public void verify_account_registration() {
 
-	@BeforeClass
-	void setup() {
+		logger.info("************ Starting TC001_AccountRegistrationTest ************");
 
-		driver = new ChromeDriver();
-		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		try {
+			HomePage hp = new HomePage(driver);
+			hp.clickMyAccount();
+			logger.info("Clicked on My Account Link...");
+			hp.clickRegister();
+			logger.info("Clicked on Register Link...");
 
-		driver.get("https://tutorialsninja.com/demo/");
-		driver.manage().window().maximize();
+			AccountRegistrationPage regpage = new AccountRegistrationPage(driver);
+			logger.info("Providing customer details...");
+			regpage.setFirstName(randomeString().toUpperCase());
+			regpage.setLastName(randomeString().toUpperCase());
+			regpage.setEmail(randomeString() + "@gmail.com");
+			regpage.setTelephone(randomeNumber());
 
-	}
+			String password = randomealphanumeric();
 
-	@AfterClass
-	void tearDown() {
+			regpage.setPassword(password);
+			regpage.setConfirmPassword(password);
 
-		driver.quit();
-	}
+			regpage.setPrivacyPolicy();
+			regpage.clickContinue();
 
-	@Test()
-	void verify_account_registration() {
+			logger.info("******** Validating Expected message ********");
 
-		HomePage hp = new HomePage(driver);
-		hp.clickMyAccount();
-		hp.clickRegister();
+			String confmsg = regpage.getConfirmationMsg();
+			
+			if (confmsg.equals("Your Account Has Been Created!")) {
+				Assert.assertTrue(true);
+			} else {
+				logger.error("Test Failed");
+				logger.debug("Debug logs");
+				Assert.assertTrue(false);
+			}
+		} catch (Exception e) {
 
-		AccountRegistrationPage regpage = new AccountRegistrationPage(driver);
-		regpage.setFirstName(randomeString().toUpperCase());
-		regpage.setLastName(randomeString().toUpperCase());
-		regpage.setEmail(randomeString() +"@gamil.com");
-		regpage.setTelephone(randomeNumber());
-
-		String password = randomealphanumeric();
-
-		regpage.setPassword(password);
-		regpage.setConfirmPassword(password);
-
-		regpage.setPrivacyPolicy();
-		regpage.clickContinue();
-
-		String confmsg = regpage.getConfirmationMsg();
-
-		Assert.assertEquals(confmsg, "Your Account Has Been Created!");
-	}
-
-	public static String randomeString() {
-		String generatedString = RandomStringUtils.randomAlphabetic(5);
-		return generatedString;
-	}
-
-	public static String randomeNumber() {
-		String generatedNumber = RandomStringUtils.randomNumeric(10);
-		return generatedNumber;
-	}
-
-	public static String randomealphanumeric() {
-		String generateString = RandomStringUtils.randomAlphabetic(5);
-		String generatedNumber = RandomStringUtils.randomNumeric(5);
-		return (generateString +"@"+ generatedNumber);
+			Assert.fail();
+		}
+		logger.info("******** Finished TC001_AccountRegistrationTest ********");
 	}
 
 }

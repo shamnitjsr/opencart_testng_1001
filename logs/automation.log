@@ -1,0 +1,230 @@
+14:31:58.190 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 14:31:58.509 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 14:33:15.097 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 14:33:15.360 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 14:35:36.143 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 14:35:36.409 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 14:38:27.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 14:40:14.654 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 14:40:14.897 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:07:49.547 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:07:49.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:08:58.674 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:08:58.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:11:23.544 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:11:23.837 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:13:35.703 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:13:36.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:14:07.844 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:14:08.102 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:14:59.272 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:14:59.532 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:17:20.522 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:17:20.791 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:23:09.408 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:23:09.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:25:42.664 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:25:42.922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:25:55.870 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\AppData\Local\Temp\testng-eclipse-911890590\testng-customsuite.xml"
+ 15:25:56.121 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+ 15:25:56.124 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+ 15:25:56.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.126 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.128 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.132 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.132 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.132 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.132 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+ 15:25:56.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+ 15:25:56.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+ 15:25:56.152 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+ 15:25:56.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\AppData\Local\Temp\testng-eclipse-911890590\testng-customsuite.xml
+
+ 15:25:56.180 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+ 15:25:56.387 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2baa8d82: 107 ms
+ 15:25:56.410 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5990e6c5: 23 ms
+ 15:25:56.423 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1b0a7baf: 13 ms
+ 15:25:56.436 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@302fec27: 12 ms
+ 15:25:56.451 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2f2bf0e2: 13 ms
+ 15:25:56.451 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1eba372c: 0 ms
+ 15:28:56.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:31:26.179 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:31:52.061 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:32:31.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:32:36.783 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 15:32:36.909 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 15:32:37.258 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 15:32:37.270 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 15:32:38.322 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 15:32:38.375 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 15:36:41.862 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 15:36:41.996 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 15:36:42.290 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 15:36:42.302 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 15:36:43.445 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 15:36:43.495 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 15:38:19.682 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml"
+ 15:38:19.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\testng.xml
+
+ 15:38:23.490 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 15:38:24.066 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 15:38:24.417 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 15:38:24.420 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 15:38:25.771 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 15:38:25.814 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:00:11.230 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\master.xml"
+ 16:00:11.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\master.xml
+
+ 16:00:15.174 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:00:15.707 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:00:16.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:00:16.024 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:00:17.108 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:00:17.157 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:00:29.273 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\master.xml"
+ 16:00:29.555 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\master.xml
+
+ 16:00:32.932 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:00:33.474 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:00:33.816 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:00:33.819 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:00:34.888 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:00:34.933 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:00:47.482 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\master.xml"
+ 16:00:47.748 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\master.xml
+
+ 16:00:47.819 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:01:01.310 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\master.xml"
+ 16:01:01.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\master.xml
+
+ 16:01:07.145 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:01:07.452 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:01:07.786 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:01:07.790 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:01:08.769 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:01:08.798 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:02:11.615 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\crossbrowsertesting.xml"
+ 16:02:37.722 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\crossbrowsertesting.xml"
+ 16:02:37.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\crossbrowsertesting.xml
+
+ 16:02:42.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:02:43.259 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:02:43.580 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:02:43.584 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:02:44.558 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:02:44.593 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:02:48.301 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:02:48.978 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:02:49.321 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:02:49.322 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:02:50.427 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:02:50.485 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:02:53.373 [main] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:02:53.463 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:02:53.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:02:53.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:02:54.923 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:02:54.980 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:03:30.345 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\paralleltesting.xml"
+ 16:03:30.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1001\paralleltesting.xml
+
+ 16:03:35.269 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:03:35.294 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:03:36.543 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:03:36.566 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:03:37.114 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:03:37.119 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:03:37.196 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:03:37.197 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:03:39.801 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:03:39.827 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:03:39.872 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:03:39.915 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:03:39.946 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:03:40.348 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:03:40.759 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:03:40.760 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:03:41.776 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:03:41.808 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:04:21.937 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1001\paralleltesting.xml"
+ 16:04:27.271 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:04:28.645 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:04:28.703 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:04:29.164 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:04:29.438 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:04:29.445 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:04:29.750 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:04:29.752 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:04:32.028 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:04:32.049 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:04:32.185 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:04:32.210 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 16:04:33.695 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ************ Starting TC001_AccountRegistrationTest ************
+ 16:04:34.027 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link...
+ 16:04:34.437 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
+ 16:04:34.438 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+ 16:04:35.621 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 16:04:35.649 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 
