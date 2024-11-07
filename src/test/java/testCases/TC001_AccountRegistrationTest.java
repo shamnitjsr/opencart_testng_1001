@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
 
-	@Test
+	@Test(groups = { "Regression", "Master" })
 	public void verify_account_registration() {
 
 		logger.info("************ Starting TC001_AccountRegistrationTest ************");
@@ -40,7 +40,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 			logger.info("******** Validating Expected message ********");
 
 			String confmsg = regpage.getConfirmationMsg();
-			
+
 			if (confmsg.equals("Your Account Has Been Created!")) {
 				Assert.assertTrue(true);
 			} else {

@@ -3,15 +3,15 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
-    <parameter name="browser" value="firfox"/>
+    <parameter name="browser" value="Chrome"/>
     <classes>
-      <class name="testCases.TC001_AccountRegistrationTest">
+      <class name="testCases.TC003_LoginDDT">
         <methods>
-          <include name="verify_account_registration"/>
           <include name="tearDown"/>
+          <include name="verify_lognDDT" invocation-numbers="4"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+      </class> <!-- testCases.TC003_LoginDDT -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
